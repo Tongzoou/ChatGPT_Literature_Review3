@@ -1,0 +1,21 @@
+将CHATGPT3虚拟环境中的文件夹同时打包
+主py文件：
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/initialization_window_个人使用.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/initialization_window_淘宝激活.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/initialization_window_转账激活.py
+
+附加文件：
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/ChatGPT_conversation_3.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/ChatGPT_conversation_3_international.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/ChatGPT_conversation_4.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/ChatGPT_conversation_4_international.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/Domestic_App.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/Domestic_App_Window_ui.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/Initial_ui.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/International_App.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/International_App_Window_ui.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/Token_check.py
+E:/Research Documents/六非博/程序项目/ChatGPT一键毕业/一键毕业3.0/Icon
+D:\Research software\Anaconda3\envs\ChatGPT3\Lib\site-packages\tiktoken
+D:\Research software\Anaconda3\envs\ChatGPT3\Lib\site-packages\tiktoken_ext
+D:\Research software\Anaconda3\envs\ChatGPT3\Lib\site-packages\tiktoken-0.4.0.dist-info
